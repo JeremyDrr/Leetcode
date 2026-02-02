@@ -46,7 +46,7 @@ import java.util.Map;
 
 public class TwoSum {
 
-    public static int[] twoSum(int[] nums, int target) {
+    public static int[] Solution(int[] nums, int target) {
 
         //Map to store <Value, Index>
         Map<Integer, Integer> map = new HashMap<>();
