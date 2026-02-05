@@ -5,11 +5,11 @@ This repository is a collection of my solutions to various LeetCode problems. It
 ## 📊 Progress Overview
 
 | Difficulty | Solved |
-| :--- | :--- |
-| 🟢 Easy | 1 |
-| 🟡 Medium | 2 |
-| 🔴 Hard | 1 |
-| **Total** | **4** |
+| :--- |:-------|
+| 🟢 Easy | 1      |
+| 🟡 Medium | 3      |
+| 🔴 Hard | 1      |
+| **Total** | **5**  |
 
 ## 🛠️ Tech Stack
 
@@ -24,12 +24,13 @@ This repository is a collection of my solutions to various LeetCode problems. It
 
 ## 📝 Problem Log
 
-| # | Title | Difficulty | Solution | Key Concept | Complexity |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Two Sum | 🟢 Easy | [View](./src/fr/jeremy/leetcode/TwoSum.java) | Hash Map | O(n) |
-| 2 | Add Two Numbers | 🟡 Medium | [View](./src/fr/jeremy/leetcode/AddTwoNumbers.java) | Linked List | O(max (m, n) |
-| 3 | Longest Substring Without Repeating Characters | 🟡 Medium | [View](./src/fr/jeremy/leetcode/LongestSubstringWithoutRepeatingCharacters.java) | Sliding Window | O(n) |
-| 4 | Median of Two Sorted Arrays | 🔴 Hard | [View](./src/fr/jeremy/leetcode/MedianOfTwoSortedArrays.java) | Binary Search | O(log(min(m,n))) |
+| # | Title                                          | Difficulty | Solution                                                                         | Key Concept         | Complexity       |
+| :--- |:-----------------------------------------------| :--- |:---------------------------------------------------------------------------------|:--------------------|:-----------------|
+| 1 | Two Sum                                        | 🟢 Easy | [View](./src/fr/jeremy/leetcode/TwoSum.java)                                     | Hash Map            | O(n)             |
+| 2 | Add Two Numbers                                | 🟡 Medium | [View](./src/fr/jeremy/leetcode/AddTwoNumbers.java)                              | Linked List         | O(max (m, n)     |
+| 3 | Longest Substring Without Repeating Characters | 🟡 Medium | [View](./src/fr/jeremy/leetcode/LongestSubstringWithoutRepeatingCharacters.java) | Sliding Window      | O(n)             |
+| 4 | Median of Two Sorted Arrays                    | 🔴 ~~~~Hard | [View](./src/fr/jeremy/leetcode/MedianOfTwoSortedArrays.java)                    | Binary Search       | O(log(min(m,n))) |
+| 4 | Longest Palindromic Substring                  | 🟡 Medium | [View](./src/fr/jeremy/leetcode/LongestPalindromicSubstring.java)                | Expand Around Center | O(n²)            |
 
 ## 🧠 Why I Do This
 
