@@ -8,8 +8,8 @@ This repository is a collection of my solutions to various LeetCode problems. It
 | :--- |:-------|
 | 🟢 Easy | 2      |
 | 🟡 Medium | 6      |
-| 🔴 Hard | 1      |
-| **Total** | **7**  |
+| 🔴 Hard | 2      |
+| **Total** | **10** |
 
 ## 🛠️ Tech Stack
 
@@ -24,17 +24,18 @@ This repository is a collection of my solutions to various LeetCode problems. It
 
 ## 📝 Problem Log
 
-| # | Title                                          | Difficulty | Solution                                                                         | Key Concept             | Complexity       |
-|:--|:-----------------------------------------------|:-----------|:---------------------------------------------------------------------------------|:------------------------|:-----------------|
-| 1 | Two Sum                                        | 🟢 Easy    | [View](./src/fr/jeremy/leetcode/TwoSum.java)                                     | Hash Map                | O(n)             |
-| 2 | Add Two Numbers                                | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/AddTwoNumbers.java)                              | Linked List             | O(max (m, n)     |
-| 3 | Longest Substring Without Repeating Characters | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/LongestSubstringWithoutRepeatingCharacters.java) | Sliding Window          | O(n)             |
-| 4 | Median of Two Sorted Arrays                    | 🔴 Hard    | [View](./src/fr/jeremy/leetcode/MedianOfTwoSortedArrays.java)                    | Binary Search           | O(log(min(m,n))) |
-| 5 | Longest Palindromic Substring                  | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/LongestPalindromicSubstring.java)                | Expand Around Center    | O(n²)            |
-| 6 | Zigzag Conversion                              | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/ZigzagConversion.java)                           | String Simulation       | O(n)             |
-| 7 | Reverse Integer                                | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/ReverseInteger.java)                             | Math / Overflow Check   | O(log(n))        |
-| 8 | String to Integer (atoi)                       | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/StringToInteger.java)                            | State Machine / Parsing | O(n)             |
-| 9 | Palindrome Number                              | 🟢 Easy    | [View](./src/fr/jeremy/leetcode/PalindromeNumber.java)                           | Math                    | O(log(n))        |
+| #  | Title                                          | Difficulty | Solution                                                                         | Key Concept             | Complexity       |
+|:---|:-----------------------------------------------|:-----------|:---------------------------------------------------------------------------------|:------------------------|:-----------------|
+| 1  | Two Sum                                        | 🟢 Easy    | [View](./src/fr/jeremy/leetcode/TwoSum.java)                                     | Hash Map                | O(n)             |
+| 2  | Add Two Numbers                                | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/AddTwoNumbers.java)                              | Linked List             | O(max (m, n)     |
+| 3  | Longest Substring Without Repeating Characters | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/LongestSubstringWithoutRepeatingCharacters.java) | Sliding Window          | O(n)             |
+| 4  | Median of Two Sorted Arrays                    | 🔴 Hard    | [View](./src/fr/jeremy/leetcode/MedianOfTwoSortedArrays.java)                    | Binary Search           | O(log(min(m,n))) |
+| 5  | Longest Palindromic Substring                  | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/LongestPalindromicSubstring.java)                | Expand Around Center    | O(n²)            |
+| 6  | Zigzag Conversion                              | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/ZigzagConversion.java)                           | String Simulation       | O(n)             |
+| 7  | Reverse Integer                                | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/ReverseInteger.java)                             | Math / Overflow Check   | O(log(n))        |
+| 8  | String to Integer (atoi)                       | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/StringToInteger.java)                            | State Machine / Parsing | O(n)             |
+| 9  | Palindrome Number                              | 🟢 Easy    | [View](./src/fr/jeremy/leetcode/PalindromeNumber.java)                           | Math                    | O(log(n))        |
+| 10 | Regular Expression Matching                    | 🔴 Hard    | [View](./src/fr/jeremy/leetcode/RegularExpressionMatching.java)                  | Dynamic Programming     | O(m * n)         |
 
 
 ## 🧠 Why I Do This
