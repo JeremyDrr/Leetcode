@@ -7,9 +7,9 @@ This repository is a collection of my solutions to various LeetCode problems. It
 | Difficulty | Solved |
 | :--- |:-------|
 | 🟢 Easy | 2      |
-| 🟡 Medium | 6      |
+| 🟡 Medium | 7      |
 | 🔴 Hard | 2      |
-| **Total** | **10** |
+| **Total** | **11** |
 
 ## 🛠️ Tech Stack
 
@@ -36,6 +36,7 @@ This repository is a collection of my solutions to various LeetCode problems. It
 | 8  | String to Integer (atoi)                       | 🟡 Medium  | [View](./src/fr/jeremy/leetcode/StringToInteger.java)                            | State Machine / Parsing | O(n)             |
 | 9  | Palindrome Number                              | 🟢 Easy    | [View](./src/fr/jeremy/leetcode/PalindromeNumber.java)                           | Math                    | O(log(n))        |
 | 10 | Regular Expression Matching                    | 🔴 Hard    | [View](./src/fr/jeremy/leetcode/RegularExpressionMatching.java)                  | Dynamic Programming     | O(m * n)         |
+| 11 | Container With Most Water                      | 🟡 Medium    | [View](./src/fr/jeremy/leetcode/ContainerWithMostWater.java)                     | Two Pointers            | O(n)             |
 
 
 ## 🧠 Why I Do This
