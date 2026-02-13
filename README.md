@@ -6,10 +6,10 @@ This repository is a collection of my solutions to various LeetCode problems. It
 
 | Difficulty | Solved |
 | :--- |:-------|
-| 🟢 Easy | 2      |
+| 🟢 Easy | 3      |
 | 🟡 Medium | 8      |
 | 🔴 Hard | 2      |
-| **Total** | **12** |
+| **Total** | **13** |
 
 ## 🛠️ Tech Stack
 
@@ -38,6 +38,7 @@ This repository is a collection of my solutions to various LeetCode problems. It
 | 10 | Regular Expression Matching                    | 🔴 Hard    | [View](./src/fr/jeremy/leetcode/RegularExpressionMatching.java)                  | Dynamic Programming     | O(m * n)         |
 | 11 | Container With Most Water                      | 🟡 Medium    | [View](./src/fr/jeremy/leetcode/ContainerWithMostWater.java)                     | Two Pointers            | O(n)             |
 | 12 | Integer to Roman                               | 🟡 Medium    | [View](./src/fr/jeremy/leetcode/IntegerToRoman.java)                             | Greedy Algorithm        | O(1)             |
+| 13 | Roman to Integer                               | 🟢 Easy    | [View](./src/fr/jeremy/leetcode/RomanToInteger.java)                             | Look-ahead Comparison   | O(n)             |
 
 
 ## 🧠 Why I Do This
